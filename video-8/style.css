@@ -1,0 +1,21 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+body{
+    background-color: aquamarine;
+}
+
+p{
+    background-color: black;
+    color: white;
+
+}
+
+nav a{
+    background-color:red;
+}
+span{
+    background-color: chartreuse;
+}
