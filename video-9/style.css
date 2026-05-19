@@ -1,0 +1,17 @@
+body{
+    background-color: aquamarine;
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    
+}
+.h1{
+    background-color: brown;
+}
+#h1{
+    color: red;
+}
+.h2{
+    color: blue;
+    background-color: blueviolet;
+}
